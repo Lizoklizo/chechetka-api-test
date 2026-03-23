@@ -8,6 +8,9 @@ from api.services.users_service import UsersService
 from api.services.posts_service import PostsService
 from api.services.todos_service import TodosService
 
+from api.clients.comments_client import CommentsClient
+from api.services.comments_service import CommentsService
+
 
 @pytest.fixture(scope="session")
 def session():
@@ -45,3 +48,12 @@ def todos_client(session):
 @pytest.fixture
 def todos_service(todos_client):
     return TodosService(todos_client)
+
+@pytest.fixture
+def comments_client(session):
+    return CommentsClient(session)
+
+
+@pytest.fixture
+def comments_service(comments_client):
+    return CommentsService(comments_client)
