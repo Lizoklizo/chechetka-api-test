@@ -1,0 +1,4 @@
+2026-03-23 16:55:40,213 | INFO | TodosClient | Request: GET https://apimocker.com/todos | params=None | json=None
+2026-03-23 16:55:40,407 | INFO | TodosClient | Response: https://apimocker.com/todos | status=200
+2026-03-23 16:55:40,408 | INFO | TodosClient | Request: PUT https://apimocker.com/todos/2 | params=None | json={'title': 'Updated Todo', 'completed': True}
+2026-03-23 16:55:40,723 | INFO | TodosClient | Response: https://apimocker.com/todos/2 | status=200

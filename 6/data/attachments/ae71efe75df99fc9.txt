@@ -1,0 +1,2 @@
+2026-03-23 16:55:42,090 | INFO | UsersClient | Request: PUT https://apimocker.com/users/1 | params=None | json={'name': 'Updated User', 'username': 'updateduser', 'email': 'updated.user@example.com'}
+2026-03-23 16:55:42,218 | INFO | UsersClient | Response: https://apimocker.com/users/1 | status=200

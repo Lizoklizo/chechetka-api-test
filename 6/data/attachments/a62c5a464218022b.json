@@ -1,0 +1,8 @@
+{
+  "method": "GET",
+  "url": "https://apimocker.com/posts/search",
+  "params": {
+    "q": "development"
+  },
+  "json": null
+}

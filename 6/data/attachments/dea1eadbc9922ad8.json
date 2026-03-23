@@ -1,0 +1,11 @@
+{
+  "method": "POST",
+  "url": "https://apimocker.com/comments",
+  "params": null,
+  "json": {
+    "body": "Test comment 1cd18ae4",
+    "postId": 2,
+    "name": "Test User 1cd18ae4",
+    "email": "test.1cd18ae4@example.com"
+  }
+}

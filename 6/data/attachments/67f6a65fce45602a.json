@@ -1,0 +1,8 @@
+{
+  "method": "POST",
+  "url": "https://apimocker.com/posts/5/likes",
+  "params": null,
+  "json": {
+    "userId": 1
+  }
+}

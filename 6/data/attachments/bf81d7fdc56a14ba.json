@@ -1,0 +1,12 @@
+{
+  "query": "john",
+  "total": 1,
+  "results": [
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "username": "mikejohnson",
+      "email": "mike.johnson@example.com"
+    }
+  ]
+}

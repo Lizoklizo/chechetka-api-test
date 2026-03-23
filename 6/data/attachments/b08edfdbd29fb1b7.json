@@ -1,0 +1,11 @@
+{
+  "method": "PATCH",
+  "url": "https://apimocker.com/comments/6",
+  "params": null,
+  "json": {
+    "body": "Patched comment body",
+    "postId": 2,
+    "name": "Patched User 516da852",
+    "email": "patched.516da852@example.com"
+  }
+}
