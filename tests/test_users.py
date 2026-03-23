@@ -91,3 +91,30 @@ def test_put_user_returns_200(users_service):
     assert_has_data(body)
     assert body["data"]["name"] == payload["name"]
     assert body["data"]["email"] == payload["email"]
+
+@allure.feature("Users API")
+@allure.story("Patch user - not supported by API (returns 404)")
+@pytest.mark.api
+def test_patch_user_not_supported_returns_404(users_service):
+    # PATCH /users не поддерживается apimocker — документируем это поведение
+    payload = {"name": "Patched User"}
+
+    response = users_service.update_user_partially(2, payload)
+
+    assert_status_code(response, 404)
+
+    body = response.json()
+    assert "error" in body
+
+
+@allure.feature("Users API")
+@allure.story("Delete user")
+@pytest.mark.api
+def test_delete_user_returns_204(users_service):
+    # Берём последнего юзера из списка чтобы не сломать другие тесты
+    list_response = users_service.get_all_users()
+    last_id = list_response.json()["data"][-1]["id"]
+
+    response = users_service.remove_user(last_id)
+
+    assert_status_code(response, 204)

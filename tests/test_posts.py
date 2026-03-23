@@ -117,6 +117,21 @@ def test_get_post_likes_returns_200(posts_service):
 
 
 @allure.feature("Posts API")
+@allure.story("Post likes")
+@pytest.mark.api
+def test_add_post_like_returns_200_or_201(posts_service):
+    response = posts_service.add_post_like(5, user_id=1)
+
+    assert response.status_code in (200, 201)
+
+    body = response.json()
+    # API возвращает: message, like, totalLikes
+    assert "like" in body
+    assert "totalLikes" in body
+    assert body["like"]["postId"] == 5
+
+
+@allure.feature("Posts API")
 @allure.story("Delete post")
 @pytest.mark.api
 def test_delete_post_returns_204(posts_service):
