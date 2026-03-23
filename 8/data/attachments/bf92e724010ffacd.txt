@@ -1,0 +1,4 @@
+2026-03-23 18:07:41,420 | INFO | CommentsClient | Request: GET https://apimocker.com/comments | params=None | json=None
+2026-03-23 18:07:41,638 | INFO | CommentsClient | Response: https://apimocker.com/comments | status=200
+2026-03-23 18:07:41,639 | INFO | CommentsClient | Request: GET https://apimocker.com/comments/6 | params=None | json=None
+2026-03-23 18:07:42,032 | INFO | CommentsClient | Response: https://apimocker.com/comments/6 | status=200

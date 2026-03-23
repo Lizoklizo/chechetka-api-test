@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": 138,
+    "title": "Test Post ee1091eb",
+    "body": "This is a test post body ee1091eb",
+    "userId": 1,
+    "createdAt": "2026-03-23T18:07:47.565Z",
+    "updatedAt": "2026-03-23T18:07:47.565Z",
+    "user": {
+      "id": 1,
+      "name": "Updated User",
+      "username": "updateduser"
+    }
+  }
+}

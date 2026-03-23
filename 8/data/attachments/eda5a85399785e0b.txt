@@ -1,0 +1,2 @@
+2026-03-23 18:07:45,086 | INFO | PostsClient | Request: GET https://apimocker.com/posts | params=None | json=None
+2026-03-23 18:07:45,375 | INFO | PostsClient | Response: https://apimocker.com/posts | status=200

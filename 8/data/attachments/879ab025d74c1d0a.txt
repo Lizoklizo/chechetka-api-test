@@ -1,0 +1,4 @@
+2026-03-23 18:07:42,627 | INFO | CommentsClient | Request: GET https://apimocker.com/comments | params=None | json=None
+2026-03-23 18:07:42,843 | INFO | CommentsClient | Response: https://apimocker.com/comments | status=200
+2026-03-23 18:07:42,844 | INFO | CommentsClient | Request: PUT https://apimocker.com/comments/6 | params=None | json={'body': 'Updated comment body', 'postId': 2, 'name': 'Updated User 64cf66bf', 'email': 'updated.64cf66bf@example.com'}
+2026-03-23 18:07:43,213 | INFO | CommentsClient | Response: https://apimocker.com/comments/6 | status=200

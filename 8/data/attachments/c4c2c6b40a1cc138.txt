@@ -1,0 +1,2 @@
+2026-03-23 18:07:50,356 | INFO | TodosClient | Request: GET https://apimocker.com/todos | params={'completed': 'true'} | json=None
+2026-03-23 18:07:50,526 | INFO | TodosClient | Response: https://apimocker.com/todos | status=200

@@ -1,0 +1,8 @@
+{
+  "method": "PATCH",
+  "url": "https://apimocker.com/users/2",
+  "params": null,
+  "json": {
+    "name": "Patched User"
+  }
+}
