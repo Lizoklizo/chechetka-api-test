@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": 135,
+    "title": "Post to delete 93f88d82",
+    "body": "Temporary post body 93f88d82",
+    "userId": 1,
+    "createdAt": "2026-03-23T17:58:45.348Z",
+    "updatedAt": "2026-03-23T17:58:45.348Z",
+    "user": {
+      "id": 1,
+      "name": "Updated User",
+      "username": "updateduser"
+    }
+  }
+}

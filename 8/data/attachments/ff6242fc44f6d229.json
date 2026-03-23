@@ -1,0 +1,10 @@
+{
+  "method": "PUT",
+  "url": "https://apimocker.com/users/1",
+  "params": null,
+  "json": {
+    "name": "Updated User",
+    "username": "updateduser",
+    "email": "updated.user@example.com"
+  }
+}

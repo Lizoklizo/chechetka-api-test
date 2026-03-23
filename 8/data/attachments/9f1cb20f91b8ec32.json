@@ -1,0 +1,9 @@
+{
+  "method": "GET",
+  "url": "https://apimocker.com/posts",
+  "params": {
+    "_sort": "id",
+    "_order": "desc"
+  },
+  "json": null
+}

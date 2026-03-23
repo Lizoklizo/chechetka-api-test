@@ -1,0 +1,9 @@
+{
+  "method": "POST",
+  "url": "https://apimocker.com/posts",
+  "params": null,
+  "json": {
+    "title": "Test Post dac6c587",
+    "body": "This is a test post body dac6c587"
+  }
+}

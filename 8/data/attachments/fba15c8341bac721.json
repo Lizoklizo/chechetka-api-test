@@ -1,0 +1,11 @@
+{
+  "method": "PUT",
+  "url": "https://apimocker.com/comments/6",
+  "params": null,
+  "json": {
+    "body": "Updated comment body",
+    "postId": 2,
+    "name": "Updated User c3d703a0",
+    "email": "updated.c3d703a0@example.com"
+  }
+}

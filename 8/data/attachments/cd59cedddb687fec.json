@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "id": 132,
+      "title": "Test Post 3d9b3426",
+      "body": "This is a test post body 3d9b3426",
+      "userId": 1,
+      "createdAt": "2026-03-23T17:10:29.932Z",
+      "updatedAt": "2026-03-23T17:10:29.932Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 130,
+      "title": "Test Post 6b2637ba",
+      "body": "This is a test post body 6b2637ba",
+      "userId": 1,
+      "createdAt": "2026-03-23T16:58:49.026Z",
+      "updatedAt": "2026-03-23T16:58:49.026Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 128,
+      "title": "Test Post a5781b39",
+      "body": "This is a test post body a5781b39",
+      "userId": 1,
+      "createdAt": "2026-03-23T16:55:37.187Z",
+      "updatedAt": "2026-03-23T16:55:37.187Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 126,
+      "title": "Test Post ffd97be9",
+      "body": "This is a test post body ffd97be9",
+      "userId": 1,
+      "createdAt": "2026-03-23T16:53:54.155Z",
+      "updatedAt": "2026-03-23T16:53:54.155Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 124,
+      "title": "Test Post a134fe66",
+      "body": "This is a test post body a134fe66",
+      "userId": 1,
+      "createdAt": "2026-03-23T16:44:44.876Z",
+      "updatedAt": "2026-03-23T16:44:44.876Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 122,
+      "title": "Test Post fceb6a0b",
+      "body": "This is a test post body fceb6a0b",
+      "userId": 1,
+      "createdAt": "2026-03-23T16:43:14.916Z",
+      "updatedAt": "2026-03-23T16:43:14.916Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 120,
+      "title": "Test Post 1fff8428",
+      "body": "This is a test post body 1fff8428",
+      "userId": 1,
+      "createdAt": "2026-03-23T16:40:23.593Z",
+      "updatedAt": "2026-03-23T16:40:23.593Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 118,
+      "title": "Test Post 071cfc5f",
+      "body": "This is a test post body 071cfc5f",
+      "userId": 1,
+      "createdAt": "2026-03-23T16:37:07.532Z",
+      "updatedAt": "2026-03-23T16:37:07.532Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 116,
+      "title": "Test Post bb1a72a8",
+      "body": "This is a test post body bb1a72a8",
+      "userId": 1,
+      "createdAt": "2026-03-23T16:35:27.995Z",
+      "updatedAt": "2026-03-23T16:35:27.995Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 114,
+      "title": "Test Post d316de8f",
+      "body": "This is a test post body d316de8f",
+      "userId": 1,
+      "createdAt": "2026-03-23T16:35:05.291Z",
+      "updatedAt": "2026-03-23T16:35:05.291Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "total": 106,
+    "totalPages": 11,
+    "hasNext": true,
+    "hasPrev": false
+  }
+}

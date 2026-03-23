@@ -1,0 +1,8 @@
+{
+  "method": "GET",
+  "url": "https://apimocker.com/comments",
+  "params": {
+    "limit": 5
+  },
+  "json": null
+}

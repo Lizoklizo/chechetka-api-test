@@ -1,0 +1,9 @@
+{
+  "method": "POST",
+  "url": "https://apimocker.com/posts",
+  "params": null,
+  "json": {
+    "title": "Post to delete 93f88d82",
+    "body": "Temporary post body 93f88d82"
+  }
+}

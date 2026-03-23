@@ -1,0 +1,16 @@
+{
+  "data": {
+    "id": 219,
+    "title": "Test Todo 924d2a16",
+    "description": null,
+    "completed": false,
+    "userId": 1,
+    "createdAt": "2026-03-23T17:58:47.998Z",
+    "updatedAt": "2026-03-23T17:58:47.998Z",
+    "user": {
+      "id": 1,
+      "name": "Updated User",
+      "username": "updateduser"
+    }
+  }
+}

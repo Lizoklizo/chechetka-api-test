@@ -1,0 +1,249 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Updated User",
+      "username": "updateduser",
+      "email": "updated.user@example.com",
+      "phone": "+1-555-0123",
+      "website": "https://johndoe.dev",
+      "address": {
+        "geo": {
+          "lat": "40.7128",
+          "lng": "-74.0060"
+        },
+        "city": "New York",
+        "suite": "Apt 4B",
+        "street": "123 Main St",
+        "zipcode": "10001"
+      },
+      "company": {
+        "bs": "harness real-time e-markets",
+        "name": "Tech Solutions Inc",
+        "catchPhrase": "Innovating the future"
+      },
+      "createdAt": "2026-03-23T00:00:03.957Z",
+      "updatedAt": "2026-03-23T17:10:35.817Z"
+    },
+    {
+      "id": 2,
+      "name": "Rachel Lee",
+      "username": "rachellee",
+      "email": "rachel.lee@example.com",
+      "phone": "+1-555-0132",
+      "website": "https://rachellee.com",
+      "address": {
+        "geo": {
+          "lat": "37.3382",
+          "lng": "-121.8863"
+        },
+        "city": "San Jose",
+        "suite": "Apt 22E",
+        "street": "741 Poplar Dr",
+        "zipcode": "95101"
+      },
+      "company": {
+        "bs": "harness machine learning",
+        "name": "AI Innovations",
+        "catchPhrase": "Intelligent automation"
+      },
+      "createdAt": "2026-03-23T00:00:03.959Z",
+      "updatedAt": "2026-03-23T00:00:03.959Z"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "username": "mikejohnson",
+      "email": "mike.johnson@example.com",
+      "phone": "+1-555-0125",
+      "website": "https://mikejohnson.io",
+      "address": {
+        "geo": {
+          "lat": "41.8781",
+          "lng": "-87.6298"
+        },
+        "city": "Chicago",
+        "suite": "Unit 15",
+        "street": "789 Pine Rd",
+        "zipcode": "60601"
+      },
+      "company": {
+        "bs": "leverage agile frameworks",
+        "name": "Digital Innovations",
+        "catchPhrase": "Building tomorrow today"
+      },
+      "createdAt": "2026-03-23T00:00:03.958Z",
+      "updatedAt": "2026-03-23T00:00:03.958Z"
+    },
+    {
+      "id": 4,
+      "name": "Lisa Garcia",
+      "username": "lisagarcia",
+      "email": "lisa.garcia@example.com",
+      "phone": "+1-555-0130",
+      "website": "https://lisagarcia.io",
+      "address": {
+        "geo": {
+          "lat": "32.7157",
+          "lng": "-117.1611"
+        },
+        "city": "San Diego",
+        "suite": "Unit 8",
+        "street": "258 Spruce St",
+        "zipcode": "92101"
+      },
+      "company": {
+        "bs": "deliver intuitive interfaces",
+        "name": "UX Excellence",
+        "catchPhrase": "Creating amazing user experiences"
+      },
+      "createdAt": "2026-03-23T00:00:03.958Z",
+      "updatedAt": "2026-03-23T00:00:03.958Z"
+    },
+    {
+      "id": 5,
+      "name": "Emily Davis",
+      "username": "emilydavis",
+      "email": "emily.davis@example.com",
+      "phone": "+1-555-0128",
+      "website": "https://emilydavis.com",
+      "address": {
+        "geo": {
+          "lat": "39.9526",
+          "lng": "-75.1652"
+        },
+        "city": "Philadelphia",
+        "suite": "Suite 500",
+        "street": "987 Cedar Ln",
+        "zipcode": "19101"
+      },
+      "company": {
+        "bs": "implement robust analytics",
+        "name": "Data Analytics Pro",
+        "catchPhrase": "Turning data into insights"
+      },
+      "createdAt": "2026-03-23T00:00:03.958Z",
+      "updatedAt": "2026-03-23T00:00:03.958Z"
+    },
+    {
+      "id": 6,
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "jane.smith@example.com",
+      "phone": "+1-555-0124",
+      "website": "https://janesmith.com",
+      "address": {
+        "geo": {
+          "lat": "34.0522",
+          "lng": "-118.2437"
+        },
+        "city": "Los Angeles",
+        "suite": "Suite 200",
+        "street": "456 Oak Ave",
+        "zipcode": "90210"
+      },
+      "company": {
+        "bs": "integrate cutting-edge solutions",
+        "name": "Creative Design Studio",
+        "catchPhrase": "Designing beautiful experiences"
+      },
+      "createdAt": "2026-03-23T00:00:03.958Z",
+      "updatedAt": "2026-03-23T00:00:03.958Z"
+    },
+    {
+      "id": 7,
+      "name": "David Brown",
+      "username": "davidbrown",
+      "email": "david.brown@example.com",
+      "phone": "+1-555-0127",
+      "website": "https://davidbrown.tech",
+      "address": {
+        "geo": {
+          "lat": "33.4484",
+          "lng": "-112.0740"
+        },
+        "city": "Phoenix",
+        "suite": "Office 300",
+        "street": "654 Maple Dr",
+        "zipcode": "85001"
+      },
+      "company": {
+        "bs": "optimize virtual architectures",
+        "name": "Cloud Solutions",
+        "catchPhrase": "Scalable cloud infrastructure"
+      },
+      "createdAt": "2026-03-23T00:00:03.958Z",
+      "updatedAt": "2026-03-23T00:00:03.958Z"
+    },
+    {
+      "id": 8,
+      "name": "Sarah Wilson",
+      "username": "sarahwilson",
+      "email": "sarah.wilson@example.com",
+      "phone": "+1-555-0126",
+      "website": "https://sarahwilson.dev",
+      "address": {
+        "geo": {
+          "lat": "29.7604",
+          "lng": "-95.3698"
+        },
+        "city": "Houston",
+        "suite": "Apt 7C",
+        "street": "321 Elm St",
+        "zipcode": "77001"
+      },
+      "company": {
+        "bs": "revolutionize scalable platforms",
+        "name": "Future Systems",
+        "catchPhrase": "Empowering digital transformation"
+      },
+      "createdAt": "2026-03-23T00:00:03.958Z",
+      "updatedAt": "2026-03-23T00:00:03.958Z"
+    },
+    {
+      "id": 9,
+      "name": "Tom Anderson",
+      "username": "tomanderson",
+      "email": "tom.anderson@example.com",
+      "phone": "+1-555-0131",
+      "website": "https://tomanderson.tech",
+      "address": {
+        "geo": {
+          "lat": "32.7767",
+          "lng": "-96.7970"
+        },
+        "city": "Dallas",
+        "suite": "Office 150",
+        "street": "369 Willow Rd",
+        "zipcode": "75201"
+      },
+      "company": {
+        "bs": "secure enterprise networks",
+        "name": "Security Solutions",
+        "catchPhrase": "Protecting digital assets"
+      },
+      "createdAt": "2026-03-23T00:00:03.958Z",
+      "updatedAt": "2026-03-23T00:00:03.958Z"
+    },
+    {
+      "id": 21,
+      "name": "Elizaveta Test 6f82d282",
+      "username": "elizaveta_test_6f82d282",
+      "email": "elizaveta.6f82d282@example.com",
+      "phone": null,
+      "website": null,
+      "address": null,
+      "company": null,
+      "createdAt": "2026-03-23T16:12:32.251Z",
+      "updatedAt": "2026-03-23T16:12:32.251Z"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "total": 26,
+    "totalPages": 3,
+    "hasNext": true,
+    "hasPrev": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "message": "Like added successfully",
+  "like": {
+    "id": 32,
+    "postId": 5,
+    "userId": 1,
+    "createdAt": "2026-03-23T17:58:45.099Z"
+  },
+  "totalLikes": 10
+}

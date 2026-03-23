@@ -1,0 +1,9 @@
+{
+  "method": "PATCH",
+  "url": "https://apimocker.com/posts/2",
+  "params": null,
+  "json": {
+    "title": "Patched Post Title",
+    "body": "Patched post body content"
+  }
+}
