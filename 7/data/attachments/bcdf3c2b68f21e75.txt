@@ -1,0 +1,2 @@
+2026-03-23 17:10:25,475 | INFO | CommentsClient | Request: POST https://apimocker.com/comments | params=None | json={'body': 'Test comment 269f9c16', 'postId': 2, 'name': 'Test User 269f9c16', 'email': 'test.269f9c16@example.com'}
+2026-03-23 17:10:25,877 | INFO | CommentsClient | Response: https://apimocker.com/comments | status=201

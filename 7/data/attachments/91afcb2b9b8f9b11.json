@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": 505,
+    "name": "Test User 269f9c16",
+    "email": "test.269f9c16@example.com",
+    "body": "Test comment 269f9c16",
+    "postId": 2,
+    "createdAt": "2026-03-23T17:10:25.516Z",
+    "updatedAt": "2026-03-23T17:10:25.516Z",
+    "post": {
+      "id": 2,
+      "title": "Patched Post Title"
+    }
+  }
+}

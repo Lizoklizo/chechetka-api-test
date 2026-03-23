@@ -1,0 +1,8 @@
+{
+  "method": "GET",
+  "url": "https://apimocker.com/posts",
+  "params": {
+    "title_like": "web"
+  },
+  "json": null
+}

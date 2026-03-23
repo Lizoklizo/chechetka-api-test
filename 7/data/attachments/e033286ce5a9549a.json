@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "title": "Patched Post Title",
+      "body": "Patched post body content",
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:04.377Z",
+      "updatedAt": "2026-03-23T16:58:50.162Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Design Patterns in Software Engineering",
+      "body": "This is a comprehensive article about design patterns in software engineering. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:04.377Z",
+      "updatedAt": "2026-03-23T00:00:04.377Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 5,
+      "title": "DevOps and Continuous Integration",
+      "body": "This is a comprehensive article about devops and continuous integration. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:04.378Z",
+      "updatedAt": "2026-03-23T00:00:04.378Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Optimizing Database Performance",
+      "body": "This is a comprehensive article about optimizing database performance. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:04.377Z",
+      "updatedAt": "2026-03-23T00:00:04.377Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Cloud Computing Trends in 2024",
+      "body": "This is a comprehensive article about cloud computing trends in 2024. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:04.378Z",
+      "updatedAt": "2026-03-23T00:00:04.378Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Mobile App Development Strategies",
+      "body": "This is a comprehensive article about mobile app development strategies. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:04.378Z",
+      "updatedAt": "2026-03-23T00:00:04.378Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Security Best Practices for Web Applications",
+      "body": "This is a comprehensive article about security best practices for web applications. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:04.377Z",
+      "updatedAt": "2026-03-23T00:00:04.377Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 10,
+      "title": "User Experience Design Principles",
+      "body": "This is a comprehensive article about user experience design principles. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:04.378Z",
+      "updatedAt": "2026-03-23T00:00:04.378Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 11,
+      "title": "The Future of Artificial Intelligence",
+      "body": "This is a comprehensive article about the future of artificial intelligence. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 6,
+      "createdAt": "2026-03-23T00:00:04.534Z",
+      "updatedAt": "2026-03-23T00:00:04.534Z",
+      "user": {
+        "id": 6,
+        "name": "Jane Smith",
+        "username": "janesmith"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Building Scalable Microservices",
+      "body": "This is a comprehensive article about building scalable microservices. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 6,
+      "createdAt": "2026-03-23T00:00:04.534Z",
+      "updatedAt": "2026-03-23T00:00:04.534Z",
+      "user": {
+        "id": 6,
+        "name": "Jane Smith",
+        "username": "janesmith"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "total": 105,
+    "totalPages": 11,
+    "hasNext": true,
+    "hasPrev": false
+  }
+}

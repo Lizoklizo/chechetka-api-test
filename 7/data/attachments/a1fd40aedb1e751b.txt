@@ -1,0 +1,2 @@
+2026-03-23 17:10:35,930 | INFO | UsersClient | Request: PATCH https://apimocker.com/users/2 | params=None | json={'name': 'Patched User'}
+2026-03-23 17:10:35,972 | INFO | UsersClient | Response: https://apimocker.com/users/2 | status=404

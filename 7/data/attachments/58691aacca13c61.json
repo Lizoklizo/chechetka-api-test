@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "id": 6,
+      "name": "Patched User 01734a57",
+      "email": "patched.01734a57@example.com",
+      "body": "Patched comment body",
+      "postId": 2,
+      "createdAt": "2026-03-23T00:00:07.161Z",
+      "updatedAt": "2026-03-23T16:58:41.951Z",
+      "post": {
+        "id": 2,
+        "title": "Patched Post Title"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "body": "Thanks for sharing this valuable information. Looking forward to more posts!",
+      "postId": 2,
+      "createdAt": "2026-03-23T00:00:07.163Z",
+      "updatedAt": "2026-03-23T00:00:07.163Z",
+      "post": {
+        "id": 2,
+        "title": "Patched Post Title"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Mike Johnson",
+      "email": "mike.johnson@example.com",
+      "body": "I have a question about the implementation. Could you elaborate on the database optimization part?",
+      "postId": 2,
+      "createdAt": "2026-03-23T00:00:07.163Z",
+      "updatedAt": "2026-03-23T00:00:07.163Z",
+      "post": {
+        "id": 2,
+        "title": "Patched Post Title"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "body": "This is exactly what I was looking for. The examples are very clear and practical.",
+      "postId": 2,
+      "createdAt": "2026-03-23T00:00:07.163Z",
+      "updatedAt": "2026-03-23T00:00:07.163Z",
+      "post": {
+        "id": 2,
+        "title": "Patched Post Title"
+      }
+    },
+    {
+      "id": 10,
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "body": "Excellent write-up! The step-by-step approach makes it easy to follow along.",
+      "postId": 2,
+      "createdAt": "2026-03-23T00:00:07.164Z",
+      "updatedAt": "2026-03-23T00:00:07.164Z",
+      "post": {
+        "id": 2,
+        "title": "Patched Post Title"
+      }
+    },
+    {
+      "id": 16,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "body": "Great article! This really helped me understand the concepts better.",
+      "postId": 4,
+      "createdAt": "2026-03-23T00:00:07.269Z",
+      "updatedAt": "2026-03-23T00:00:07.269Z",
+      "post": {
+        "id": 4,
+        "title": "Design Patterns in Software Engineering"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Sarah Wilson",
+      "email": "sarah.wilson@example.com",
+      "body": "This is exactly what I was looking for. The examples are very clear and practical.",
+      "postId": 4,
+      "createdAt": "2026-03-23T00:00:07.270Z",
+      "updatedAt": "2026-03-23T00:00:07.270Z",
+      "post": {
+        "id": 4,
+        "title": "Design Patterns in Software Engineering"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "body": "Thanks for sharing this valuable information. Looking forward to more posts!",
+      "postId": 4,
+      "createdAt": "2026-03-23T00:00:07.269Z",
+      "updatedAt": "2026-03-23T00:00:07.269Z",
+      "post": {
+        "id": 4,
+        "title": "Design Patterns in Software Engineering"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Mike Johnson",
+      "email": "mike.johnson@example.com",
+      "body": "I have a question about the implementation. Could you elaborate on the database optimization part?",
+      "postId": 4,
+      "createdAt": "2026-03-23T00:00:07.270Z",
+      "updatedAt": "2026-03-23T00:00:07.270Z",
+      "post": {
+        "id": 4,
+        "title": "Design Patterns in Software Engineering"
+      }
+    },
+    {
+      "id": 25,
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "body": "Excellent write-up! The step-by-step approach makes it easy to follow along.",
+      "postId": 6,
+      "createdAt": "2026-03-23T00:00:07.320Z",
+      "updatedAt": "2026-03-23T00:00:07.320Z",
+      "post": {
+        "id": 6,
+        "title": "Optimizing Database Performance"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "total": 439,
+    "totalPages": 44,
+    "hasNext": true,
+    "hasPrev": false
+  }
+}
