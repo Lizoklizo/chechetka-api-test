@@ -49,6 +49,45 @@ def test_search_posts_returns_200(posts_service):
 
 
 @allure.feature("Posts API")
+@allure.story("Filtering posts")
+@pytest.mark.api
+def test_filter_posts_by_title_like(posts_service):
+    response = posts_service.get_all_posts(params={"title_like": "web"})
+
+    assert_status_code(response, 200)
+
+    body = response.json()
+    assert_has_data(body)
+    assert isinstance(body["data"], list)
+
+
+@allure.feature("Posts API")
+@allure.story("Sorting posts")
+@pytest.mark.api
+def test_sort_posts_by_id_desc(posts_service):
+    response = posts_service.get_all_posts(params={"_sort": "id", "_order": "desc"})
+
+    assert_status_code(response, 200)
+
+    body = response.json()
+    assert_has_data(body)
+    ids = [post["id"] for post in body["data"]]
+    assert ids == sorted(ids, reverse=True)
+
+
+@allure.feature("Posts API")
+@allure.story("Delay simulation")
+@pytest.mark.api
+def test_posts_with_delay_returns_200(posts_service):
+    response = posts_service.get_all_posts(params={"_delay": 1000})
+
+    assert_status_code(response, 200)
+
+    body = response.json()
+    assert_has_data(body)
+
+
+@allure.feature("Posts API")
 @allure.story("Create post")
 @pytest.mark.api
 def test_create_post_returns_201(posts_service):
@@ -92,7 +131,6 @@ def test_put_post_returns_200(posts_service):
 @allure.story("Patch post")
 @pytest.mark.api
 def test_patch_post_returns_200(posts_service):
-    # API требует оба поля: title и body
     payload = {
         "title": "Patched Post Title",
         "body": "Patched post body content",
@@ -125,7 +163,6 @@ def test_add_post_like_returns_200_or_201(posts_service):
     assert response.status_code in (200, 201)
 
     body = response.json()
-    # API возвращает: message, like, totalLikes
     assert "like" in body
     assert "totalLikes" in body
     assert body["like"]["postId"] == 5
@@ -145,10 +182,7 @@ def test_delete_post_returns_204(posts_service):
     create_response = posts_service.create_post(payload)
     assert_status_code(create_response, 201)
 
-    created_body = create_response.json()
-    assert_has_data(created_body)
-
-    post_id = created_body["data"]["id"]
+    post_id = create_response.json()["data"]["id"]
 
     delete_response = posts_service.delete_post(post_id)
     assert_status_code(delete_response, 204)
