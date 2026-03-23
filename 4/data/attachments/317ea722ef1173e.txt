@@ -1,0 +1,4 @@
+2026-03-23 16:33:06,179 | INFO | PostsClient | Request: POST https://apimocker.com/posts | params=None | json={'title': 'Post to delete 3e04f5b1', 'body': 'Temporary post body 3e04f5b1'}
+2026-03-23 16:33:06,454 | INFO | PostsClient | Response: https://apimocker.com/posts | status=201
+2026-03-23 16:33:06,454 | INFO | PostsClient | Request: DELETE https://apimocker.com/posts/111 | params=None | json=None
+2026-03-23 16:33:06,540 | INFO | PostsClient | Response: https://apimocker.com/posts/111 | status=204

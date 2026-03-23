@@ -1,0 +1,141 @@
+{
+  "query": "development",
+  "total": 19,
+  "totalPages": 2,
+  "page": 1,
+  "limit": 10,
+  "hasNext": true,
+  "hasPrev": false,
+  "results": [
+    {
+      "id": 8,
+      "title": "Mobile App Development Strategies",
+      "body": "This is a comprehensive article about mobile app development strategies. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:04.378Z",
+      "updatedAt": "2026-03-23T00:00:04.378Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Getting Started with Modern Web Development",
+      "body": "This is a comprehensive article about getting started with modern web development. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 6,
+      "createdAt": "2026-03-23T00:00:04.533Z",
+      "updatedAt": "2026-03-23T00:00:04.533Z",
+      "user": {
+        "id": 6,
+        "name": "Jane Smith",
+        "username": "janesmith"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Mobile App Development Strategies",
+      "body": "This is a comprehensive article about mobile app development strategies. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 6,
+      "createdAt": "2026-03-23T00:00:04.535Z",
+      "updatedAt": "2026-03-23T00:00:04.535Z",
+      "user": {
+        "id": 6,
+        "name": "Jane Smith",
+        "username": "janesmith"
+      }
+    },
+    {
+      "id": 22,
+      "title": "Getting Started with Modern Web Development",
+      "body": "This is a comprehensive article about getting started with modern web development. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 3,
+      "createdAt": "2026-03-23T00:00:04.634Z",
+      "updatedAt": "2026-03-23T00:00:04.634Z",
+      "user": {
+        "id": 3,
+        "name": "Mike Johnson",
+        "username": "mikejohnson"
+      }
+    },
+    {
+      "id": 29,
+      "title": "Mobile App Development Strategies",
+      "body": "This is a comprehensive article about mobile app development strategies. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 3,
+      "createdAt": "2026-03-23T00:00:04.635Z",
+      "updatedAt": "2026-03-23T00:00:04.635Z",
+      "user": {
+        "id": 3,
+        "name": "Mike Johnson",
+        "username": "mikejohnson"
+      }
+    },
+    {
+      "id": 31,
+      "title": "Getting Started with Modern Web Development",
+      "body": "This is a comprehensive article about getting started with modern web development. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 8,
+      "createdAt": "2026-03-23T00:00:04.734Z",
+      "updatedAt": "2026-03-23T00:00:04.734Z",
+      "user": {
+        "id": 8,
+        "name": "Sarah Wilson",
+        "username": "sarahwilson"
+      }
+    },
+    {
+      "id": 38,
+      "title": "Mobile App Development Strategies",
+      "body": "This is a comprehensive article about mobile app development strategies. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 8,
+      "createdAt": "2026-03-23T00:00:04.736Z",
+      "updatedAt": "2026-03-23T00:00:04.736Z",
+      "user": {
+        "id": 8,
+        "name": "Sarah Wilson",
+        "username": "sarahwilson"
+      }
+    },
+    {
+      "id": 41,
+      "title": "Getting Started with Modern Web Development",
+      "body": "This is a comprehensive article about getting started with modern web development. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 7,
+      "createdAt": "2026-03-23T00:00:04.836Z",
+      "updatedAt": "2026-03-23T00:00:04.836Z",
+      "user": {
+        "id": 7,
+        "name": "David Brown",
+        "username": "davidbrown"
+      }
+    },
+    {
+      "id": 49,
+      "title": "Mobile App Development Strategies",
+      "body": "This is a comprehensive article about mobile app development strategies. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 7,
+      "createdAt": "2026-03-23T00:00:04.837Z",
+      "updatedAt": "2026-03-23T00:00:04.837Z",
+      "user": {
+        "id": 7,
+        "name": "David Brown",
+        "username": "davidbrown"
+      }
+    },
+    {
+      "id": 51,
+      "title": "Getting Started with Modern Web Development",
+      "body": "This is a comprehensive article about getting started with modern web development. It covers various aspects including best practices, common pitfalls, and real-world examples. The content is designed to be both educational and practical for developers at all levels.",
+      "userId": 5,
+      "createdAt": "2026-03-23T00:00:04.935Z",
+      "updatedAt": "2026-03-23T00:00:04.935Z",
+      "user": {
+        "id": 5,
+        "name": "Emily Davis",
+        "username": "emilydavis"
+      }
+    }
+  ]
+}

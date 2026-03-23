@@ -1,0 +1,4 @@
+2026-03-23 16:33:08,262 | INFO | TodosClient | Request: GET https://apimocker.com/todos | params=None | json=None
+2026-03-23 16:33:08,415 | INFO | TodosClient | Response: https://apimocker.com/todos | status=200
+2026-03-23 16:33:08,416 | INFO | TodosClient | Request: DELETE https://apimocker.com/todos/16 | params=None | json=None
+2026-03-23 16:33:08,507 | INFO | TodosClient | Response: https://apimocker.com/todos/16 | status=204
