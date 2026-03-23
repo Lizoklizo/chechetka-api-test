@@ -1,0 +1,10 @@
+{
+  "method": "POST",
+  "url": "https://apimocker.com/users",
+  "params": null,
+  "json": {
+    "name": "Elizaveta Test 816e8a28",
+    "username": "elizaveta_test_816e8a28",
+    "email": "elizaveta.816e8a28@example.com"
+  }
+}

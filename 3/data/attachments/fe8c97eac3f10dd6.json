@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": 2,
+    "title": "Patched Post Title",
+    "body": "Patched post body content",
+    "userId": 1,
+    "createdAt": "2026-03-23T00:00:04.377Z",
+    "updatedAt": "2026-03-23T16:21:58.839Z",
+    "user": {
+      "id": 1,
+      "name": "Updated User",
+      "username": "updateduser"
+    }
+  }
+}

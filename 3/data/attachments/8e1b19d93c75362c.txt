@@ -1,0 +1,2 @@
+2026-03-23 16:25:23,388 | INFO | PostsClient | Request: PUT https://apimocker.com/posts/2 | params=None | json={'title': 'Updated Post Title', 'body': 'Updated post body content'}
+2026-03-23 16:25:23,735 | INFO | PostsClient | Response: https://apimocker.com/posts/2 | status=200

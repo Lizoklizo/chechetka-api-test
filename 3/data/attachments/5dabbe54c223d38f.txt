@@ -1,0 +1,2 @@
+2026-03-23 16:25:23,737 | INFO | PostsClient | Request: PATCH https://apimocker.com/posts/2 | params=None | json={'title': 'Patched Post Title', 'body': 'Patched post body content'}
+2026-03-23 16:25:24,076 | INFO | PostsClient | Response: https://apimocker.com/posts/2 | status=200

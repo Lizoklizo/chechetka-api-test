@@ -1,0 +1,2 @@
+2026-03-23 16:25:22,716 | INFO | PostsClient | Request: GET https://apimocker.com/posts/search | params={'q': 'development'} | json=None
+2026-03-23 16:25:22,921 | INFO | PostsClient | Response: https://apimocker.com/posts/search | status=200

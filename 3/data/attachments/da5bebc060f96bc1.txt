@@ -1,0 +1,2 @@
+2026-03-23 16:25:25,517 | INFO | TodosClient | Request: POST https://apimocker.com/todos | params=None | json={'title': 'Test Todo 51634460', 'completed': False}
+2026-03-23 16:25:25,877 | INFO | TodosClient | Response: https://apimocker.com/todos | status=201
