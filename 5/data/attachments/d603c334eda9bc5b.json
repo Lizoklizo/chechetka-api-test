@@ -1,0 +1,9 @@
+{
+  "method": "PUT",
+  "url": "https://apimocker.com/posts/2",
+  "params": null,
+  "json": {
+    "title": "Updated Post Title",
+    "body": "Updated post body content"
+  }
+}

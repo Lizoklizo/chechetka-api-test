@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "title": "Patched Todo Title",
+      "description": "Add comprehensive unit tests for the new user management features",
+      "completed": true,
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:05.436Z",
+      "updatedAt": "2026-03-23T16:43:21.841Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Deploy to staging environment",
+      "description": "Deploy the latest changes to the staging environment for testing",
+      "completed": true,
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:05.436Z",
+      "updatedAt": "2026-03-23T00:00:05.436Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Fix bug in authentication module",
+      "description": "Investigate and fix the reported authentication issue in the login system",
+      "completed": false,
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:05.436Z",
+      "updatedAt": "2026-03-23T00:00:05.436Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Code review for team members",
+      "description": "Conduct thorough code reviews for the latest feature implementations",
+      "completed": true,
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:05.436Z",
+      "updatedAt": "2026-03-23T00:00:05.436Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Optimize database queries",
+      "description": "Analyze and optimize slow database queries for better performance",
+      "completed": false,
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:05.447Z",
+      "updatedAt": "2026-03-23T00:00:05.447Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Update dependencies",
+      "description": "Update npm packages and resolve any security vulnerabilities",
+      "completed": false,
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:05.437Z",
+      "updatedAt": "2026-03-23T00:00:05.437Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Implement new feature",
+      "description": "Implement the user notification system as per the requirements",
+      "completed": true,
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:05.449Z",
+      "updatedAt": "2026-03-23T00:00:05.449Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Set up monitoring alerts",
+      "description": "Configure monitoring alerts for system health and performance metrics",
+      "completed": false,
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:05.452Z",
+      "updatedAt": "2026-03-23T00:00:05.452Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Refactor legacy code",
+      "description": "Refactor the old payment processing module to use modern patterns",
+      "completed": true,
+      "userId": 1,
+      "createdAt": "2026-03-23T00:00:05.452Z",
+      "updatedAt": "2026-03-23T00:00:05.452Z",
+      "user": {
+        "id": 1,
+        "name": "Updated User",
+        "username": "updateduser"
+      }
+    },
+    {
+      "id": 23,
+      "title": "Fix bug in authentication module",
+      "description": "Investigate and fix the reported authentication issue in the login system",
+      "completed": true,
+      "userId": 6,
+      "createdAt": "2026-03-23T00:00:05.661Z",
+      "updatedAt": "2026-03-23T00:00:05.661Z",
+      "user": {
+        "id": 6,
+        "name": "Jane Smith",
+        "username": "janesmith"
+      }
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "total": 180,
+    "totalPages": 18,
+    "hasNext": true,
+    "hasPrev": false
+  }
+}

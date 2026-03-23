@@ -1,0 +1,2 @@
+2026-03-23 16:44:43,800 | INFO | UsersClient | Request: GET https://apimocker.com/users/999999 | params=None | json=None
+2026-03-23 16:44:43,985 | INFO | UsersClient | Response: https://apimocker.com/users/999999 | status=404

@@ -1,0 +1,2 @@
+2026-03-23 16:44:44,834 | INFO | PostsClient | Request: POST https://apimocker.com/posts | params=None | json={'title': 'Test Post a134fe66', 'body': 'This is a test post body a134fe66'}
+2026-03-23 16:44:45,161 | INFO | PostsClient | Response: https://apimocker.com/posts | status=201

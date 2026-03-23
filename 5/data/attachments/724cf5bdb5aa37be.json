@@ -1,0 +1,9 @@
+{
+  "method": "POST",
+  "url": "https://apimocker.com/todos",
+  "params": null,
+  "json": {
+    "title": "Test Todo 0d3cbae1",
+    "completed": false
+  }
+}

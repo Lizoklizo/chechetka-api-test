@@ -1,0 +1,2 @@
+2026-03-23 16:44:48,827 | INFO | UsersClient | Request: POST https://apimocker.com/users | params=None | json={'name': 'Elizaveta Test 37406771', 'username': 'elizaveta_test_37406771', 'email': 'elizaveta.37406771@example.com'}
+2026-03-23 16:44:48,918 | INFO | UsersClient | Response: https://apimocker.com/users | status=201
